@@ -1,5 +1,5 @@
  # Hey There! Welcome to my Github Page
- # I’m Proficient working with PowerBI and Python
+ 
  
 
 <!---
