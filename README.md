@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Chioma-xls
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me 
+ # Hey There! Welcome to my Github Page
+ # I’m Proficient working with PowerBI and Python
+ 
 
 <!---
 Chioma-xls/Chioma-xls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
