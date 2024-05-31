@@ -1,7 +1,6 @@
 ### ✨ Hi, I'm Chioma Ozurumba
 ### ✨ I'm intereted in Data Science and Machine learning
 ### ✨ Proficient using Power BI, Tableau, Python and SQL
-### ✨ I'm looking for Data Science roles/internship
 ### ✨ You can contact me via email: chiomaozurumbaa@gmail.com
  
  
